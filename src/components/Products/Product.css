@@ -1,0 +1,49 @@
+.products{
+      display: flex;
+      border-bottom: 1px solid gray;
+      margin-right: 2rem;
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+}
+.products-name{
+      padding-left: 1rem;
+      font-weight: 400;
+      color: lightcoral;
+}
+.img{
+      width: 75%;
+      max-width: 400px;
+      height: auto;
+}
+.Add-btn{
+               
+               
+      
+            background-image: linear-gradient(to right, #D31027 0%, #EA384D  51%, #D31027  100%);
+            margin: 10px;
+            padding: 10px 20px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border: none;
+            border-radius: 10px;
+            display: block;
+            margin-top: 40px;
+            cursor: pointer;
+          
+
+          
+         
+      
+
+          
+         
+}
+.Add-btn:hover {
+      background-position: right center; /* change the direction of the change here */
+      color: #fff;
+      text-decoration: none;
+    }
