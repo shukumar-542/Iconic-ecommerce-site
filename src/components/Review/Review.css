@@ -1,3 +1,9 @@
 .item-review{
       margin: 6rem;
+      display: flex;
+}
+.review{
+      width: 70%;
+      border-right: 1px solid gray;
+      margin-right: 1rem;
 }

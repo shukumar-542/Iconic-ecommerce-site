@@ -1,0 +1,14 @@
+.Login{
+      text-align: center;
+      margin-top: 3rem;
+}
+.google-btn{
+      background-color: rgb(170, 199, 20);
+      border: none;
+      padding: .8rem;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 6rem;
+      color: white;
+
+}
